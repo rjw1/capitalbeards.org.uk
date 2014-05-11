@@ -1,7 +1,8 @@
 # Site settings
 title: Capital Beardsmen
 email: contact@capitalbeards.org.uk
-description: "The Capital Beardsmen, The London thatch of the British Beard Club"
+description: 'The Capital Beardsmen, The London thatch of the British Beard Club'
+html_description: The London thatch of the <a href="http://thebritishbeardclub.org">British Beard Club</a>
 baseurl: ""
 url: "http://capitalbeards.org.uk"
 username: capitalbeards
