@@ -25,4 +25,4 @@ At the [Harp](http://london.randomness.org.uk/wiki.cgi?Harp,_WC2N_4HS) we met a 
 
 #### Midsummer Beardness ####
 
-The [Capital Beards](http://capitalbeards.org.uk) will next meet at the [British Beard Club](http://thebritishbeardclub.org)’s Midsummer Beardness, at the [George](http://london.randomness.org.uk/wiki.cgi?George,_SE1_1NH) on the 22nd of June.
+The [Capital Beards](http://capitalbeards.org.uk) will next meet at [The British Beard Club](http://thebritishbeardclub.org)’s Midsummer Beardness, at the [George](http://london.randomness.org.uk/wiki.cgi?George,_SE1_1NH) on the 22nd of June.
