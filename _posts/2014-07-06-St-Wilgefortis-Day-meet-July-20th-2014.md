@@ -7,5 +7,6 @@ The Capital Beards will next meet along with the rest of [The British Beard Club
 feast day. St Wilgefortis is a notably bearded saint, and so we try to meet
 up on her feast day every year.
 
-The venue is yet to be determined because our normal choice is shut on a Sunday,
-but will be somewhere near Westminster Abbey which has a statue of St Wilgefortis.
+Our venue will be the [Buckingham Arms](http://www.youngs.co.uk/pubs/buckingham-arms) on Petty France. A pub notable for being one of only two in London to have been in every edition of [CAMRA's](http://www.camra.org.uk) [Good Beer Guide](http://www.camra.org.uk/gbg).
+
+As normal we should be there from about Midday.
