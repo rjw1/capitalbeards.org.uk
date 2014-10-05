@@ -8,8 +8,8 @@ title: Capital Beards Merchandise
 The [Capital Beards](http://capitalbeards.org.uk) now have a range of [merchandise
 for sale](http://capitalbeards.bigcartel.com) with all profits going to charity.
 
-- [t-shirts](http://capitalbeards.bigcartel.com/product/capital-beards-t-shirt) are £15.
-- [stickers](http://capitalbeards.bigcartel.com/product/capital-beards-sticker) are £1.
+- [t-shirts](http://capitalbeards.bigcartel.com/product/capital-beards-t-shirt) are £15
+- [stickers](http://capitalbeards.bigcartel.com/product/capital-beards-sticker) are £1
 
 If you are coming to the [October Meeting](http://capitalbeards.org.uk/2014/09/21/October-2014-Meeting/) we should have t-shirts available for £10 on the day. You can reserve one via email to [contact@capitalbeards.org.uk](mailto:contact@capitalbeards.org.uk).
 
