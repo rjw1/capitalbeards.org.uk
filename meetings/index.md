@@ -13,6 +13,7 @@ Meetings start from Midday unless otherwise stated. We normally will be in the d
 - [49 Beak Street, W1F 9SF](http://www.openstreetmap.org/?mlat=51.5126233779738&mlon=-0.137468615071353&zoom=15#map=15/51.5126/-0.1375)
 - [RGL entry](http://london.randomness.org.uk/wiki.cgi?Old_Coffee_House%2C_W1F_9SF)
 - [Facebook Event](https://www.facebook.com/events/1645604605654140/)
+- [Blog post](http://capitalbeards.org.uk/2015/05/10/May-2015-Meeting/)
 
 ## Previous Meetings ##
 
