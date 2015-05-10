@@ -1,6 +1,7 @@
 ---
 layout: post
 title: January 2015 Meeting
+excerpt: Details of our January Meeting
 ---
 
 A word from Del our organizer:
