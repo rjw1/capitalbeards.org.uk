@@ -2,3 +2,46 @@
 layout: post
 title: May 2015 Meeting
 ---
+[![Capital Beards outside the Old Coffee House in May 2014](https://farm4.staticflickr.com/3737/14258797075_a1dd562907_z.jpg "Capital Beards outside the Old Coffee House in May 2014: bob walker")](https://www.flickr.com/photos/rjw1/14258797075/)
+
+Our next meeting will be on the 16th of May at the [Old Coffee House](http://london.randomness.org.uk/wiki.cgi?Old_Coffee_House%2C_W1F_9SF), [49 Beak Street, W1F 9SF](http://www.openstreetmap.org/?mlat=51.5126233779738&mlon=-0.137468615071353&zoom=15#map=15/51.5126/-0.1375). 
+
+- [RGL entry](http://london.randomness.org.uk/wiki.cgi?Old_Coffee_House%2C_W1F_9SF)
+- [Facebook Event](https://www.facebook.com/events/1645604605654140/)
+
+A word from Del our Organizer:-
+
+> On Saturday 16 May, the Capital Beards will be assembling in the Old Coffee
+> House, Beak Street, Soho for drinks, a meal and convivial conversation.  For
+> those of you with those new-fangled satnavs, the postcode is W1F 9SF.  As will
+> come to no surprise to those that know me, despite its name, this is a pub and
+> not a coffee house – more about this later.  You probably have your own
+> favourite ways of accessing Soho, but the nearest tube station to the pub is
+> Oxford Circus. Sadly, I am again unable to join in with the festivities;
+> missing two meetings on the trot due to unavoidable clashes is barely
+> forgivable.  I shall do better in future.
+>
+>
+> Anyway, if you are interested in a bit about the pub, read on. If you feel life
+> is too short, the article following this is really interesting.  For both of
+> you who are still with me, I would like to take you back to Shakespearian times
+> (see, you should have moved on to the next article!).  Shakespeare wrote
+> Measure for Measure and All’s Well That Ends Well in rented accommodation in
+> Silver Street Soho.  That building – along with a few others – was trashed
+> during the Great Fire in 1666.  In 1680, Queen Ann’s messenger Thomas Beake,
+> who also moonlighted as a property developer “acquired” most of Silver Street
+> and being a courtier, he was a typical shrinking violet, so he renamed the
+> street after himself.  I have no idea when the premises became a Coffee House,
+> but in 1772, number 49 Beak Street was licensed as a public house under the
+> more historic name of the Silver Street Coffee House.  The property was rebuilt
+> and given its current name in 1894 and is currently Grade Two Listed.  Now
+> something about the beer they sell.  You will be relieved to learn that I am
+> only going back to the year 2000 for this.  In that year, the William IV pub at
+> 816 High Road Leyton, opened a brewery in outbuildings of the pub at number
+> 816A – the Sweet William Brewery.  This operated for four years until it closed
+> in 2004.  In June 2008, the then owners of the pub, James and Lizzie Brodie,
+> decided to clean up and restore the brewery and brewed the first batch of
+> Brodies IPA on 8 August on that year.  They have been brewing ever since.  They
+> love to try new recipes and – to date – have brewed over 150 different types of
+> ales, several of which will be available at the Old Coffee House so I hope you
+> will be able to make it on 16 May and  don’t forget to have a couple for me!
