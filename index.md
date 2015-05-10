@@ -6,7 +6,10 @@ layout: default
 <h2> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span></h2>
 <br />
-{{ post.excerpt }}
+{{ post.excerpt }} <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">&hellip;</a>
+<br />
+<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more</a>
+<br />
 <br />
 <hr>
 <br />
