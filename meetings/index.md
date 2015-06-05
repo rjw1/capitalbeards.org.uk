@@ -8,21 +8,16 @@ Meetings start from Midday unless otherwise stated. We normally will be in the d
 
 ## Next Meeting ##
 
-### [Old Coffee House](http://london.randomness.org.uk/wiki.cgi?Old_Coffee_House%2C_W1F_9SF) - May 16th 2015 ###
-
-- [49 Beak Street, W1F 9SF](http://www.openstreetmap.org/?mlat=51.5126233779738&mlon=-0.137468615071353&zoom=15#map=15/51.5126/-0.1375)
-- [RGL entry](http://london.randomness.org.uk/wiki.cgi?Old_Coffee_House%2C_W1F_9SF)
-- [Facebook Event](https://www.facebook.com/events/1645604605654140/)
-- [Blog post](http://capitalbeards.org.uk/2015/05/10/May-2015-Meeting/)
-
-## Future Meetings ##
-
-For those of you who like to plan ahead the following are our currently planned meetings. Dates are unlikely to change. The venues may change.
-
 ### [The George](http://www.george-southwark.co.uk/) - June 21st 2015 ###
 
 - [77 Borough High Street, SE1 1NH](http://www.openstreetmap.org/?mlat=51.504183110177&mlon=-0.0901616522391727&zoom=15#map=15/51.5042/-0.0902)
 - [RGL entry](http://london.randomness.org.uk/wiki.cgi?George,_SE1_1NH)
+- [Facebook Event](https://www.facebook.com/events/876596112401261/)
+- [Blog post](http://capitalbeards.org.uk/2015/06/05/Midsummer-Beardness-June-2015/)
+
+## Future Meetings ##
+
+For those of you who like to plan ahead the following are our currently planned meetings. Dates are unlikely to change. The venues may change.
 
 ### [Buckingham Arms](http://www.youngs.co.uk/pubs/buckingham-arms) - July 19th 2015 ###
 
