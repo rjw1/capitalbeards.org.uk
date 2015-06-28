@@ -8,12 +8,6 @@ Meetings start from Midday unless otherwise stated. We normally will be in the d
 
 ## Next Meeting ##
 
-### [The George](http://www.george-southwark.co.uk/) - June 21st 2015 ###
-
-- [77 Borough High Street, SE1 1NH](http://www.openstreetmap.org/?mlat=51.504183110177&mlon=-0.0901616522391727&zoom=15#map=15/51.5042/-0.0902)
-- [RGL entry](http://london.randomness.org.uk/wiki.cgi?George,_SE1_1NH)
-- [Facebook Event](https://www.facebook.com/events/876596112401261/)
-- [Blog post](http://capitalbeards.org.uk/2015/06/05/Midsummer-Beardness-June-2015/)
 
 ## Future Meetings ##
 
@@ -51,6 +45,13 @@ For those of you who like to plan ahead the following are our currently planned 
 
 
 ## Previous Meetings ##
+
+### [The George](http://www.george-southwark.co.uk/) - June 21st 2015 ###
+
+- [77 Borough High Street, SE1 1NH](http://www.openstreetmap.org/?mlat=51.504183110177&mlon=-0.0901616522391727&zoom=15#map=15/51.5042/-0.0902)
+- [RGL entry](http://london.randomness.org.uk/wiki.cgi?George,_SE1_1NH)
+- [Facebook Event](https://www.facebook.com/events/876596112401261/)
+- [Blog post](http://capitalbeards.org.uk/2015/06/05/Midsummer-Beardness-June-2015/)
 
 ### [Royal Standard](http://www.royalstandard-croydon.co.uk/) - April 26th 2015
 
