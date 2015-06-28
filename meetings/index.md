@@ -8,15 +8,15 @@ Meetings start from Midday unless otherwise stated. We normally will be in the d
 
 ## Next Meeting ##
 
-
-## Future Meetings ##
-
-For those of you who like to plan ahead the following are our currently planned meetings. Dates are unlikely to change. The venues may change.
-
 ### [Buckingham Arms](http://www.youngs.co.uk/pubs/buckingham-arms) - July 19th 2015 ###
 
 - [62 Petty France, SW1H 9EU](http://www.openstreetmap.org/?mlat=51.499115950148&mlon=-0.136823134881766&zoom=15)
 - [RGL entry](http://london.randomness.org.uk/wiki.cgi?Buckingham_Arms,_SW1H_9EU)
+- [Facebook Event](https://www.facebook.com/events/1000973313276461/)
+
+## Future Meetings ##
+
+For those of you who like to plan ahead the following are our currently planned meetings. Dates are unlikely to change. The venues may change.
 
 ### [Finborough Arms](http://www.finborougharms.co.uk) - August 2nd 2015 ###
 
