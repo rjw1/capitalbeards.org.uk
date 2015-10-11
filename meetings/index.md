@@ -8,35 +8,19 @@ Meetings start from Midday unless otherwise stated. We normally will be in the d
 
 ## Next Meeting ##
 
-### [Buckingham Arms](http://www.youngs.co.uk/pubs/buckingham-arms) - July 19th 2015 ###
+### [Tapping the Admiral](http://www.tappingtheadmiral.co.uk/) - October 18th 2015 ###
 
-- [62 Petty France, SW1H 9EU](http://www.openstreetmap.org/?mlat=51.499115950148&mlon=-0.136823134881766&zoom=15)
-- [RGL entry](http://london.randomness.org.uk/wiki.cgi?Buckingham_Arms,_SW1H_9EU)
-- [Facebook Event](https://www.facebook.com/events/1000973313276461/)
+- [77 Castle Road, NW1 8SU](http://www.openstreetmap.org/?mlat=51.5453144583372&mlon=-0.146171965369918&zoom=15)
+- [RGL entry](http://london.randomness.org.uk/wiki.cgi?Tapping_The_Admiral,_NW1_8SU)
+- [Facebook Event](https://www.facebook.com/events/1636101266640114/)
+
 
 ## Future Meetings ##
 
 For those of you who like to plan ahead the following are our currently planned meetings. Dates are unlikely to change. The venues may change.
 
-### [Finborough Arms](http://www.finborougharms.co.uk) - August 2nd 2015 ###
 
-- [118 Finborough Road, SW10 9ED](http://www.openstreetmap.org/?mlat=51.4865965486257&mlon=-0.190108559501582&zoom=15)
-- [RGL entry](http://london.randomness.org.uk/wiki.cgi?Finborough_Arms,_SW10_9ED)
-
-### [GBBF](http://gbbf.org.uk/) - August 13th 2015 ###
-
-- [Olympia, Hammersmith Road, Kensington, London W14 8UX](http://osm.org/go/euun04xv?m=&way=27789986)
-
-### [Carshalton Straw Jack](http://www.strawjack.co.uk/) - September 5th 2015 ###
-
-- Some of us may just be in the [Hope](http://hopecarshalton.co.uk/) all afternoon
-
-### [Tapping the Admiral](http://www.tappingtheadmiral.co.uk/) - October 18th 2015 ###
-
-- [77 Castle Road, NW1 8SU](http://www.openstreetmap.org/?mlat=51.5453144583372&mlon=-0.146171965369918&zoom=15)
-- [RGL entry](http://london.randomness.org.uk/wiki.cgi?Tapping_The_Admiral,_NW1_8SU)
-
-### TBC - November 8th 2015 ###
+### [The Hope](http://hopecarshalton.co.uk) - November 14th ###
 
 ### [Royal Standard](http://www.royalstandard-croydon.co.uk/) - December 5th 2015 ###
 
@@ -45,6 +29,26 @@ For those of you who like to plan ahead the following are our currently planned 
 
 
 ## Previous Meetings ##
+
+### [Carshalton Straw Jack](http://www.strawjack.co.uk/) - September 5th 2015 ###
+
+- Some of us may just be in the [Hope](http://hopecarshalton.co.uk/) all afternoon
+### [GBBF](http://gbbf.org.uk/) - August 13th 2015 ###
+
+- [Olympia, Hammersmith Road, Kensington, London W14 8UX](http://osm.org/go/euun04xv?m=&way=27789986)
+
+### [Finborough Arms](http://www.finborougharms.co.uk) - August 2nd 2015 ###
+
+- [118 Finborough Road, SW10 9ED](http://www.openstreetmap.org/?mlat=51.4865965486257&mlon=-0.190108559501582&zoom=15)
+- [RGL entry](http://london.randomness.org.uk/wiki.cgi?Finborough_Arms,_SW10_9ED)
+
+
+
+### [Buckingham Arms](http://www.youngs.co.uk/pubs/buckingham-arms) - July 19th 2015 ###
+
+- [62 Petty France, SW1H 9EU](http://www.openstreetmap.org/?mlat=51.499115950148&mlon=-0.136823134881766&zoom=15)
+- [RGL entry](http://london.randomness.org.uk/wiki.cgi?Buckingham_Arms,_SW1H_9EU)
+- [Facebook Event](https://www.facebook.com/events/1000973313276461/)
 
 ### [The George](http://www.george-southwark.co.uk/) - June 21st 2015 ###
 
