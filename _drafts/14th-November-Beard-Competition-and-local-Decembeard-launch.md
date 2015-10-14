@@ -6,22 +6,37 @@ Exciting news! On Saturday 14 November we will be holding Capital Beards’ firs
 
 The Hope is kindly sponsoring the trophies for the event and due to the constraints of the venue, we are limiting eligibility to members who have attended a previous Capital Beards event and to new and existing members who intend to attend a Capital Beards event in the future.  The Devon and Cornwall Thatch recently held a similar event and as theirs was successful we have decided to loosely base our categories on theirs as follows:
 
-* Moustache Natural
-  Natural shaping allowed but without aids.   Facial hair is grown on the upper lip only and hairs may grow out up to 1.5 cm from the end of the upper lip 
-* Partial Beard Natural
-  This covers goatee, business class, mutton chops and 'Whaler/Amish’ but with no aids
-* Full Beard Natural
-  As grown with moustache integrated without any natural or shaved gap and no aids.
-* Partial Beard Styled
-  Includes sculptured beards.
-* Moustache Styled
-  Facial hair is grown on the upper lip only.
-* Full Beard Styled
-  This takes in styled beard as well as styled moustache (with beard).
-* Musketeer
-  Moustache long and slender, lip hairs may grow out up to 1.5cm from end of upper lip. Beard narrow and pointed.  Aids allowed.
-* Freestyle
-  Covers both moustaches and beards – including Whiskeriners.  Anything goes!
+*   Moustache Natural
+
+    Natural shaping allowed but without aids.   Facial hair is grown on the upper lip only and hairs may grow out up to 1.5 cm from the end of the upper lip 
+
+*   Partial Beard Natural
+
+    This covers goatee, business class, mutton chops and 'Whaler/Amish’ but with no aids
+
+*   Full Beard Natural
+
+    As grown with moustache integrated without any natural or shaved gap and no aids.
+
+*   Partial Beard Styled
+
+    Includes sculptured beards.
+
+*   Moustache Styled
+
+    Facial hair is grown on the upper lip only.
+
+*   Full Beard Styled
+
+    This takes in styled beard as well as styled moustache (with beard).
+
+*   Musketeer
+
+    Moustache long and slender, lip hairs may grow out up to 1.5cm from end of upper lip. Beard narrow and pointed.  Aids allowed.
+
+*   Freestyle
+
+    Covers both moustaches and beards – including Whiskerinas.  Anything goes!
 
 Contestants are welcome to enter more than one category if they feel they meet
 the criteria.
@@ -31,18 +46,19 @@ If there is anyone reading this that are not familiar with the
 Hope, its current incarnation dates back to 2010 when there was an imminent
 danger of the pub closing and becoming a licensed Indian Restaurant, however
 after some quick negotiation by a group of customers, they were given the
-option of buying the lease and operating the pub.  A company "48 West Limited"
-was formed to pursue this possibility  and on Monday 8th Feb 2010 the company
-signed forms to become the tenant of The Hope on a 20 year free of all tie
-lease from Punch Taverns. They then bought the fixtures and fittings, stock etc
-from the holding company that operated the pub. They have made, and are
-continuing to make, substantial investments in the building, the stock, the
-staff and generally the future. The pub has now gained many new friends as
-customers and has won the odd prize or two.  In other words, it is a pub run by
-beer enthusiasts for beer enthusiasts, and anyone else who enjoys a friendly
-atmosphere. The pub is five minutes’ walk from Carshalton station and a
-significant number of busses run close by.  If you fancy a bus, check out the
-Hope’s very helpful web site.
+option of buying the lease and operating the pub. 
+
+A company "48 West Limited" was formed to pursue this possibility  and on
+Monday 8th Feb 2010 the company signed forms to become the tenant of The Hope
+on a 20 year free of all tie lease from Punch Taverns. They then bought the
+fixtures and fittings, stock etc from the holding company that operated the
+pub. They have made, and are continuing to make, substantial investments in the
+building, the stock, the staff and generally the future. The pub has now gained
+many new friends as customers and has won the odd prize or two.  In other
+words, it is a pub run by beer enthusiasts for beer enthusiasts, and anyone
+else who enjoys a friendly atmosphere. The pub is five minutes’ walk from
+Carshalton station and a significant number of busses run close by.  If you
+fancy a bus, check out the Hope’s very helpful web site.
 
 Following our Beard and Moustache Competition, there will be the official
 regional launch party for Decembeard.  This is an awareness-and fund-raising
