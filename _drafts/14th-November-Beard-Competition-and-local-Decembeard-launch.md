@@ -2,9 +2,21 @@
 layout: post
 title: 14th November Beard Competition and local Decembeard launch
 ---
-Exciting news! On Saturday 14 November we will be holding Capital Beards’ first Beard and Moustache Competition in The Hope, 48 West Street Carshalton SM5 2PR. This event will also include the local launch of Decembeard – more of which later.
 
-The Hope is kindly sponsoring the trophies for the event and due to the constraints of the venue, we are limiting eligibility to members who have attended a previous Capital Beards event and to new and existing members who intend to attend a Capital Beards event in the future.  The Devon and Cornwall Thatch recently held a similar event and as theirs was successful we have decided to loosely base our categories on theirs as follows:
+
+Exciting news! On Saturday 14 November we will be holding Capital Beards’ first
+Beard and Moustache Competition in [The Hope](http://hopecarshalton.co.uk), [48
+West Street Carshalton SM5
+2PR](http://www.openstreetmap.org/?mlat=51.3673576952642&mlon=-0.167145315844141&zoom=15).
+This event will also include the local launch of
+[Decembeard](http://www.decembeard.org) – more of which later.
+
+The Hope is kindly sponsoring the trophies for the event and due to the
+constraints of the venue, we are limiting eligibility to members who have
+attended a previous Capital Beards event and to new and existing members who
+intend to attend a Capital Beards event in the future. The Devon and Cornwall
+Thatch recently held a similar event and as theirs was successful we have
+decided to loosely base our categories on theirs as follows:
 
 *   Moustache Natural
 
@@ -61,14 +73,17 @@ Carshalton station and a significant number of busses run close by.  If you
 fancy a bus, check out the Hope’s very helpful web site.
 
 Following our Beard and Moustache Competition, there will be the official
-regional launch party for Decembeard.  This is an awareness-and fund-raising
-campaign by the Beating Bowel Cancer Charity. Beating Bowel Cancer is the
+regional launch party for [Decembeard](http://www.decembeard.org).  This is an awareness-and fund-raising
+campaign by the [Beating Bowel Cancer Charity](https://www.beatingbowelcancer.org/). Beating Bowel Cancer is the
 support and campaigning charity for everyone affected by bowel cancer, they
 provide vital practical and emotional help – on the phone, digitally and face
 to face. They’re proud to run the UK’s only nurse-led specialist helpline for
 bowel cancer which patients call a ‘lifeline’. They bring patients together to
 share invaluable experience and support, through their website, social media
-and major events. The campaign aims to encourage non-bearded and wannabe
+and major events.
+
+
+The campaign aims to encourage non-bearded and wannabe
 bearded chaps to grow a beard for (at least) the month of December, and
 importantly to attract local financial sponsorship for a Decembeard donation
 while they are doing it.  Unlike Movember's after-party, there is (hopefully)
@@ -76,19 +91,25 @@ no shave-down at the end of it. On the contrary, it's hoped that the beard
 growers will be so attached to their new beards by the end of Decembeard that
 they will want to keep them, and/or their previously disapproving partners and
 employers will be used to their beards, and agree that they can keep them
-afterwards. If you know any non-bearded people who are not sure whether they
+afterwards. 
+
+
+If you know any non-bearded people who are not sure whether they
 should grow a beard please invite them along to the Hope, so we can pass on the
-good word about beard-growing,  grooming and the wonderful friendship and
-camaraderie that we've all   experienced since joining Beard Clubs. Customers
-of the pub will also be fair game! The Capital Beard are organising this event
-in aid of Beating Bowel Cancer, Sherrill Hawker, Community Fundraiser for the
-South East has said ‘We are thrilled to have the support of Capital Beards for
-our Decembeard campaign. It means a lot to us to have the backing of the local
-community all helping us to spread the word, helping to raise awareness of the
-UK’s second biggest cancer killer. We need 5,000 men to grow beards and raise
-£500,000 to fund Beating Bowel Cancer’s vital services Every 15 minutes someone
-is diagnosed with bowel cancer which is why we are asking local communities to
-get on board and sprout your cheek fuzz’. 
+good word about beard-growing, grooming and the wonderful friendship and
+camaraderie that we've all experienced since joining Beard Clubs. Customers
+of the pub will also be fair game!
+
+The Capital Beards are organising this event
+in aid of Beating Bowel Cancer, [Sherrill Hawker](https://twitter.com/SherrillBeatBC), Community Fundraiser for the
+South East has said 
+> We are thrilled to have the support of Capital Beards for
+> our Decembeard campaign. It means a lot to us to have the backing of the local
+> community all helping us to spread the word, helping to raise awareness of the
+> UK’s second biggest cancer killer. We need 5,000 men to grow beards and raise
+> £500,000 to fund Beating Bowel Cancer’s vital services Every 15 minutes someone
+> is diagnosed with bowel cancer which is why we are asking local communities to
+> get on board and sprout your cheek fuzz.
 
 We are hoping for some special guests to come along including local press to
 the event. For further information regarding the guests, the itinerary and
