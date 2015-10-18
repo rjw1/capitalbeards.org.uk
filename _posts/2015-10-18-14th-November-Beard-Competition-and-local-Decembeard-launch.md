@@ -118,3 +118,6 @@ special events that are being organised as I type, watch this space!
 With these two events in one, it will be Capital Beards biggest event in our
 history so I hope to see you all there.  
 
+- [Facebook Event](https://www.facebook.com/events/864626026941503/)
+- [RGL entry](http://london.randomness.org.uk/wiki.cgi?Hope,_SM5_2PR)
+- [The Hope](http://hopecarshalton.co.uk/)
