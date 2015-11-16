@@ -8,27 +8,30 @@ Meetings start from Midday unless otherwise stated. We normally will be in the d
 
 ## Next Meeting ##
 
-### [Tapping the Admiral](http://www.tappingtheadmiral.co.uk/) - October 18th 2015 ###
+### [Royal Standard](http://www.royalstandard-croydon.co.uk/) - December 5th 2015 ###
 
-- [77 Castle Road, NW1 8SU](http://www.openstreetmap.org/?mlat=51.5453144583372&mlon=-0.146171965369918&zoom=15)
-- [RGL entry](http://london.randomness.org.uk/wiki.cgi?Tapping_The_Admiral,_NW1_8SU)
-- [Facebook Event](https://www.facebook.com/events/1636101266640114/)
-
+- [1 Sheldon Street, Croydon, CR0 1SS](http://osm.org/go/euuo92xaB-)
+- [RGL entry](http://london.randomness.org.uk/wiki.cgi?Royal_Standard%2C_CR0_1SS)
+- [Facebook Event](https://www.facebook.com/events/706271739508445/)
 
 ## Future Meetings ##
 
 For those of you who like to plan ahead the following are our currently planned meetings. Dates are unlikely to change. The venues may change.
 
 
-### [The Hope](http://hopecarshalton.co.uk) - November 14th ###
 
-### [Royal Standard](http://www.royalstandard-croydon.co.uk/) - December 5th 2015 ###
-
-- [1 Sheldon Street, Croydon, CR0 1SS](http://osm.org/go/euuo92xaB-)
-- [RGL entry](http://london.randomness.org.uk/wiki.cgi?Royal_Standard%2C_CR0_1SS)
 
 
 ## Previous Meetings ##
+
+### [The Hope](http://hopecarshalton.co.uk) - November 14th ###
+
+### [Tapping the Admiral](http://www.tappingtheadmiral.co.uk/) - October 18th 2015 ###
+
+- [77 Castle Road, NW1 8SU](http://www.openstreetmap.org/?mlat=51.5453144583372&mlon=-0.146171965369918&zoom=15)
+- [RGL entry](http://london.randomness.org.uk/wiki.cgi?Tapping_The_Admiral,_NW1_8SU)
+- [Facebook Event](https://www.facebook.com/events/1636101266640114/)
+
 
 ### [Carshalton Straw Jack](http://www.strawjack.co.uk/) - September 5th 2015 ###
 
