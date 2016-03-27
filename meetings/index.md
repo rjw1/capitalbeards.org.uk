@@ -14,3 +14,8 @@ Meetings start from Midday unless otherwise stated. We normally will be in the d
 - [RGL entry](http://london.randomness.org.uk/wiki.cgi?Trafalgar,_SW19_2JY)
 - [Facebook Event](https://www.facebook.com/events/103239713410800/)
 
+## Future Meetings ##
+
+Our planned meetings are available as a [word doc](/meetings/CapitalBeardsSchedule.docx)
+
+
