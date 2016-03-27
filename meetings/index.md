@@ -8,62 +8,9 @@ Meetings start from Midday unless otherwise stated. We normally will be in the d
 
 ## Next Meeting ##
 
-### [Royal Standard](http://www.royalstandard-croydon.co.uk/) - December 5th 2015 ###
+### [The Trafalgar Freehouse](http://www.trafalgarfreehouse.co.uk/) - April 23rd 2016 ###
 
-- [1 Sheldon Street, Croydon, CR0 1SS](http://osm.org/go/euuo92xaB-)
-- [RGL entry](http://london.randomness.org.uk/wiki.cgi?Royal_Standard%2C_CR0_1SS)
-- [Facebook Event](https://www.facebook.com/events/706271739508445/)
-
-## Future Meetings ##
-
-For those of you who like to plan ahead the following are our currently planned meetings. Dates are unlikely to change. The venues may change.
-
-
-
-
-
-## Previous Meetings ##
-
-### [The Hope](http://hopecarshalton.co.uk) - November 14th ###
-
-### [Tapping the Admiral](http://www.tappingtheadmiral.co.uk/) - October 18th 2015 ###
-
-- [77 Castle Road, NW1 8SU](http://www.openstreetmap.org/?mlat=51.5453144583372&mlon=-0.146171965369918&zoom=15)
-- [RGL entry](http://london.randomness.org.uk/wiki.cgi?Tapping_The_Admiral,_NW1_8SU)
-- [Facebook Event](https://www.facebook.com/events/1636101266640114/)
-
-
-### [Carshalton Straw Jack](http://www.strawjack.co.uk/) - September 5th 2015 ###
-
-- Some of us may just be in the [Hope](http://hopecarshalton.co.uk/) all afternoon
-### [GBBF](http://gbbf.org.uk/) - August 13th 2015 ###
-
-- [Olympia, Hammersmith Road, Kensington, London W14 8UX](http://osm.org/go/euun04xv?m=&way=27789986)
-
-### [Finborough Arms](http://www.finborougharms.co.uk) - August 2nd 2015 ###
-
-- [118 Finborough Road, SW10 9ED](http://www.openstreetmap.org/?mlat=51.4865965486257&mlon=-0.190108559501582&zoom=15)
-- [RGL entry](http://london.randomness.org.uk/wiki.cgi?Finborough_Arms,_SW10_9ED)
-
-
-
-### [Buckingham Arms](http://www.youngs.co.uk/pubs/buckingham-arms) - July 19th 2015 ###
-
-- [62 Petty France, SW1H 9EU](http://www.openstreetmap.org/?mlat=51.499115950148&mlon=-0.136823134881766&zoom=15)
-- [RGL entry](http://london.randomness.org.uk/wiki.cgi?Buckingham_Arms,_SW1H_9EU)
-- [Facebook Event](https://www.facebook.com/events/1000973313276461/)
-
-### [The George](http://www.george-southwark.co.uk/) - June 21st 2015 ###
-
-- [77 Borough High Street, SE1 1NH](http://www.openstreetmap.org/?mlat=51.504183110177&mlon=-0.0901616522391727&zoom=15#map=15/51.5042/-0.0902)
-- [RGL entry](http://london.randomness.org.uk/wiki.cgi?George,_SE1_1NH)
-- [Facebook Event](https://www.facebook.com/events/876596112401261/)
-- [Blog post](http://capitalbeards.org.uk/2015/06/05/Midsummer-Beardness-June-2015/)
-
-### [Royal Standard](http://www.royalstandard-croydon.co.uk/) - April 26th 2015
-
-- [1 Sheldon Street, Croydon, CR0 1SS](http://osm.org/go/euuo92xaB-)
-- [RGL entry](http://london.randomness.org.uk/wiki.cgi?Royal_Standard%2C_CR0_1SS)
-- [Facebook Event](https://www.facebook.com/events/1622758831291753/)
-
+- [23 High Path, SW19 2JY](http://www.openstreetmap.org/?mlat=51.4136649996353&mlon=-0.18883473403424&zoom=15)
+- [RGL entry](http://london.randomness.org.uk/wiki.cgi?Trafalgar,_SW19_2JY)
+- [Facebook Event](https://www.facebook.com/events/103239713410800/)
 
